@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1447346148 source:/home/lowlow/Ecole/01_Programmation Procédurale/Projet 1/FL_Projet1_v4/cartesian.c
+	"global.h"
+
+1447346148 /home/lowlow/Ecole/01_Programmation Procédurale/Projet 1/FL_Projet1_v4/global.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<unistd.h>
+
+1447346148 source:/home/lowlow/Ecole/01_Programmation Procédurale/Projet 1/FL_Projet1_v4/image.c
+	"global.h"
+
+1447346638 source:/home/lowlow/Ecole/01_Programmation Procédurale/Projet 1/FL_Projet1_v4/main.c
+	"global.h"
+
+1447346148 source:/home/lowlow/Ecole/01_Programmation Procédurale/Projet 1/FL_Projet1_v4/system.c
+	"global.h"
+
